@@ -1,0 +1,19 @@
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\bin\Debug\net8.0-windows\vstrecha 3.exe
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\bin\Debug\net8.0-windows\vstrecha 3.deps.json
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\bin\Debug\net8.0-windows\vstrecha 3.runtimeconfig.json
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\bin\Debug\net8.0-windows\vstrecha 3.dll
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\bin\Debug\net8.0-windows\vstrecha 3.pdb
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\obj\Debug\net8.0-windows\vstrecha 3_MarkupCompile.cache
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\obj\Debug\net8.0-windows\vstrecha 3.g.resources
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\obj\Debug\net8.0-windows\vstrecha 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\obj\Debug\net8.0-windows\vstrecha 3.AssemblyInfoInputs.cache
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\obj\Debug\net8.0-windows\vstrecha 3.AssemblyInfo.cs
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\obj\Debug\net8.0-windows\vstrecha 3.csproj.CoreCompileInputs.cache
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\obj\Debug\net8.0-windows\vstrecha 3.dll
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\obj\Debug\net8.0-windows\refint\vstrecha 3.dll
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\obj\Debug\net8.0-windows\vstrecha 3.pdb
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\obj\Debug\net8.0-windows\vstrecha 3.genruntimeconfig.cache
+C:\Users\Aлексей\source\repos\vstrecha 3\vstrecha 3\obj\Debug\net8.0-windows\ref\vstrecha 3.dll
