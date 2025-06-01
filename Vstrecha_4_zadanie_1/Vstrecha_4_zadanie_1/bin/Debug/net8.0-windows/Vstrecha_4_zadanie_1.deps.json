@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Vstrecha_4_zadanie_1/1.0.0": {
+        "runtime": {
+          "Vstrecha_4_zadanie_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vstrecha_4_zadanie_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
